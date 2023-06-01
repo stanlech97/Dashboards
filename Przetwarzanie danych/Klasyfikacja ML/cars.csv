@@ -1,0 +1,51 @@
+﻿ID,Brand,Country,Prio,Warranty,Leasing month
+1,Nissan,Poland,1,2,7000
+2,Toyota,France,4,0,2983
+3,Nissan,France,4,2,2888
+4,Volkswagen,Italy,1,4,6060
+5,Ford,United Kingdom,1,1,7640
+6,Ford,Italy,3,2,4091
+7,BMW,Germany,2,1,6020
+8,Mercedes-Benz,Germany,4,3,2890
+9,Mercedes-Benz,United Kingdom,2,2,4902
+10,Nissan,Italy,3,3,3901
+11,Nissan,Italy,2,3,3005
+12,Volkswagen,United Kingdom,5,4,2110
+13,Nissan,Italy,3,2,3790
+14,Nissan,France,2,2,5601
+15,Mercedes-Benz,United Kingdom,3,0,3890
+16,BMW,Poland,4,3,2540
+17,Honda,United Kingdom,4,1,2309
+18,Mercedes-Benz,United Kingdom,3,3,3678
+19,Toyota,Germany,4,4,4500
+20,Honda,France,2,2,5020
+21,Volkswagen,France,5,0,1190
+22,Mercedes-Benz,France,4,3,3000
+23,Toyota,United Kingdom,3,3,2999
+24,Toyota,Germany,2,1,4301
+25,Volkswagen,Poland,4,1,3020
+26,Toyota,United Kingdom,1,2,6890
+27,Ford,Germany,4,4,2040
+28,BMW,Germany,2,0,4519
+29,Honda,Poland,1,5,5001
+30,BMW,France,4,4,2400
+31,Honda,United Kingdom,4,1,2540
+32,Nissan,Poland,5,5,1450
+33,BMW,Germany,4,2,2678
+34,Volkswagen,Italy,2,4,5321
+35,Ford,Germany,4,0,1998
+36,Toyota,Germany,2,0,6190
+37,Ford,United Kingdom,5,3,1340
+38,BMW,Poland,1,2,9102
+39,Honda,United Kingdom,3,0,2891
+40,Volkswagen,Poland,2,3,3999
+41,Ford,Italy,4,3,1990
+42,Ford,France,4,3,1840
+43,Toyota,Italy,4,2,2215
+44,Ford,France,3,4,3430
+45,Mercedes-Benz,United Kingdom,5,2,1200
+46,Volkswagen,France,2,4,3893
+47,Volkswagen,Italy,2,4,4012
+48,Volkswagen,Poland,2,1,4134
+49,Ford,Italy,2,1,4022
+50,BMW,France,2,2,5021
